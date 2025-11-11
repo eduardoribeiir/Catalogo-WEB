@@ -1,4 +1,5 @@
-# Catálogo Avançado de Usuários (Aluno: Luiz Eduardo Paiva Ribeiro)
+# Catálogo Avançado de Usuários 
+(Aluno: Luiz Eduardo Paiva Ribeiro)
 
 Projeto de exercício — React + Vite que consome a API JSONPlaceholder.
 
